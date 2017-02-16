@@ -1,5 +1,7 @@
 # evat module for Python
 
+![evat logo](https://github.com/pbejian/evat/blob/master/evat.png "evat logo")
+
 This is a little funny module for Python.
 The file evat.py is the main module and example.py is just an example of use.
 
